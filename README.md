@@ -1,1 +1,1 @@
-<h2>Basic Webpage showing demonstration of HTML and CSS </h2>
+<h2>Webpage showing demonstration of HTML and CSS </h2>
